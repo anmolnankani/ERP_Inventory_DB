@@ -1,2 +1,7 @@
 # ERP_Inventory_DB
-Example ERP inventory schema and useful queries.
+
+Sample inventory & orders schema and common queries for stock management, reorder alerts, and monthly sales.
+
+Files:
+- `create_tables.sql`
+- `sample_queries.sql`
